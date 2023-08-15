@@ -1,4 +1,4 @@
-Please follow the following steps to add .well-known folder to Magent Cloud
+Please follow the following steps to add .well-known folder to Magento Cloud
  
 Step 1-Upload your files verification to pub/media/.well-known/
 Please make sure that the file apple-developer-merchantid-domain-association.txt is placer under pub/media/.well-known/.
